@@ -1,12 +1,7 @@
 cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
 "dr/11939.png": "img1.json",
-<<<<<<< Updated upstream
-"dr/12272_83_83.png": "img2.json",
-"dr/12479_84_84.png": "img2.json",
-=======
 "dr/12272_83_83.png": "img1.json",
 "dr/12479_84_84.png": "img1.json",
->>>>>>> Stashed changes
 "dr/1649633_182_182.png": "img2.json",
 "dr/1649639_182_182.png": "img2.json",
 "dr/1649644_191_191.png": "img2.json",
@@ -42,11 +37,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/1659408_223_223.png": "img2.json",
 "dr/1659412_235_235.png": "img2.json",
 "dr/1659412_243_243.png": "img2.json",
-<<<<<<< Updated upstream
-"dr/1659418_235_235.png": "img2.json",
-=======
 "dr/1659418_235_235.png": "img3.json",
->>>>>>> Stashed changes
 "dr/1659418_243_243.png": "img3.json",
 "dr/1663797_297_266.png": "img3.json",
 "dr/1665546_450_474.png": "img3.json",
@@ -61,11 +52,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/1698640_305_322.png": "img3.json",
 "dr/1698646_305_322.png": "img3.json",
 "dr/1698651_309_326.png": "img3.json",
-<<<<<<< Updated upstream
-"dr/1698657_309_326.png": "img3.json",
-=======
 "dr/1698657_309_326.png": "img4.json",
->>>>>>> Stashed changes
 "dr/1698662_301_318.png": "img4.json",
 "dr/1698668_301_318.png": "img4.json",
 "dr/1698673_301_317.png": "img4.json",
@@ -104,22 +91,28 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/518182.png": "img6.json",
 "dr/549854.png": "img7.json",
 "dr/553882_436_459.png": "img7.json",
+"dr/658740_81_83.png": "img7.json",
+"dr/658740_83_81.png": "img7.json",
 "dr/658740_83_83.png": "img7.json",
 "dr/658744_83_83.png": "img7.json",
+"dr/658829_73_75.png": "img7.json",
+"dr/658829_75_73.png": "img7.json",
 "dr/658829_75_75.png": "img7.json",
 "dr/658833_75_75.png": "img7.json",
+"dr/658918_82_84.png": "img7.json",
+"dr/658918_84_81.png": "img7.json",
 "dr/658918_84_84.png": "img7.json",
 "dr/658922_84_84.png": "img7.json",
+"dr/659007_78_79.png": "img7.json",
+"dr/659007_79_77.png": "img7.json",
 "dr/659007_79_79.png": "img7.json",
 "dr/659011_79_79.png": "img7.json",
-"dr/659015_82_82.png": "img7.json",
-"dr/659019_82_82.png": "img7.json",
+"dr/659015_80_82.png": "img7.json",
+"dr/659015_82_79.png": "img7.json",
+"dr/659015_82_82.png": "img8.json",
+"dr/659019_82_82.png": "img8.json",
 "dr/666716.png": "img8.json",
-<<<<<<< Updated upstream
 "dr/666720_72_84.png": "img9.json",
-=======
-"dr/666720_72_84.png": "img8.json",
->>>>>>> Stashed changes
 "dr/667191_196_178.png": "img9.json",
 "dr/667411_206_206.png": "img9.json",
 "dr/770655_258_258.png": "img9.json",
@@ -281,11 +274,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SmartShape_235.png": "img9.json",
 "dr/SmartShape_236.png": "img9.json",
 "dr/SmartShape_270.png": "img9.json",
-<<<<<<< Updated upstream
 "dr/SmartShape_399.png": "img10.json",
-=======
-"dr/SmartShape_399.png": "img9.json",
->>>>>>> Stashed changes
 "dr/SmartShape_400.png": "img10.json",
 "dr/SmartShape_401.png": "img10.json",
 "dr/SmartShape_402.png": "img10.json",
